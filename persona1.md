@@ -46,5 +46,5 @@ Today Rui is a professor at Feup and is finishing the master's degree.
 ### Frustratiuons/Pain points
 
 - Rui doesn't trust online transactions.
-- He does everything to avoid using techonlogy, so it would be needed a useful app and user friendly to convince him.
+- He does everything to avoid using techonlogy, so it would be needed a useful and user friendly app to convince him.
 ---
