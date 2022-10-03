@@ -11,6 +11,7 @@
 - Age: 23
 - Education Level: 1st year master's
 - Work/Occupation: Part-time Student
+- Family: Parents
 - Location: Maia, Àguas Santas 
 - Technological proficiency: Below Average
 - Preferred devices: Smartphone

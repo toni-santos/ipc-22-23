@@ -2,7 +2,7 @@
 
 ![]()
 
-> "I don't have time for a quote..."
+> "Despite my shortcomings and circumstances I'll do my best and beat the challenges that stagger of me!"
 
 ---
 
