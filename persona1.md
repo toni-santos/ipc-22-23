@@ -1,4 +1,4 @@
-# Rui Oliveira
+# Maria Joana
 
 ![]()
 
@@ -8,14 +8,14 @@
 
 ### Info
 
-- Age: 26
-- Education Level: 2nd year master's
+- Age: 18
+- Education Level: Highschool
 - Work/Occupation: Full-time Student
-- Family: Parents and Grandparents
+- Family: Parents
 - Location: Bragança, Samil
-- Technological proficiency: Very Low
-- Preferred devices: Smartphone
-- Archetype: the "not a fan of technology"
+- Technological proficiency: Average
+- Preferred devices: Smartphone, Laptop
+- Archetype: The "New Learner"
 
 ---
 
@@ -29,22 +29,21 @@
 ---
 
 ### Narrative/Lifestyle/Behavioural patterns 
-Showing a big love for nature since he was a kid. Rui was born in a small and rustic town in Bragança. 
-Having to move to a big city as Oporto to study environmental engineer was a massive step, but he easily blended in. 
-Throughout the years at the university, he made quite the impression. Being one of the best students of his year and winning a lot of contests.              
-Today Rui is a professor at Feup and is finishing the master's degree.
 
+Maria has just enrolled on her first year of university, and is looking forward to not only learning all about her course but also about her new environment. As she is from a small rural town in the interior of the country, contact with new people was scarce and her current situation has presented her with the possibility to get in touch with more people and also establish new connections. Maybe steming from the isolation inherent to her situation in her highschool years, Maria has developed a reasonable level of understanding of technology and is quite comfortable with any means of interacting with it.
 
 ---
 
 ### Objective/Needs
 
-- Since Rui is a such a book worm, some features such as checking the status of a book and even reserve it would be interesting for him.
-- He might be interested in a place to recommend books to others.
+- Since Maria is a freshman in university, the desire to meet new people and explore new relationships burns in her this means that it is important that Maria is able to meet with her friends in order to study efficiently and communication such information is also of her interest.
+- With a very active life comes a diminuishing amount of time to do certain activities such as reading and she will be happy to be able to prioritize the most important aspects of her library usage. 
+
 ---
 
 ### Frustratiuons/Pain points
 
-- Rui doesn't trust online transactions.
-- He does everything to avoid using techonlogy, so it would be needed a useful and user friendly app to convince him.
+- Despite being quite comfortable with technology, some things do not come to her intuitively. She will need to be able to quickly learn her away around the application.
+- With many eyes on her at some times she will avoid spending a lot of time on her devices consulting the app.
+
 ---
