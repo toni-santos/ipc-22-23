@@ -30,7 +30,7 @@
 
 ### Narrative/Lifestyle/Behavioural patterns 
 
-After studying for 4 years Lucas has finally struck a job opportunity and intends to hold it with his whole might. Getting here however was not easy and he went through many hardships right from the start, in his first year of university he was held back due to medical complications he could not have forseen. After recovering in the hospital for the better part of a year Mendes returned to his studies and gave it his all, unfortunately a security vulnerability in the universities mobile payment method meant he lost 300€ to a scammer, being refunded only recently. Now with new goals and a job to cater to Lucas won't take "no" for an answer and will try his hardest to overcome the hardships he faced in the past years and finally finish his degree and establish himself as a valuable and integral part of his work team!
+After studying for 4 years Lucas has finally landed a job and intends to hold onto it with his whole might. Getting here however was not easy and he went through many hardships right from the start. In his first year of university he was held back due to medical complications he could not have forseen. After recovering in the hospital for the better part of a year Mendes returned to his studies and gave it his all, unfortunately a security vulnerability in the universities mobile payment method meant he lost 300€ to a scammer, only being able to receive a refund recently. Now with new goals and a job to cater to Lucas won't take "no" for an answer and will try his hardest to overcome the hardships he faced in the past years and finally finish his degree and establish himself as a valuable and integral part of his work team!
 
 ---
 

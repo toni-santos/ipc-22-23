@@ -30,7 +30,7 @@
 
 ### Narrative/Lifestyle/Behavioural patterns 
 
-Maria has just enrolled on her first year of university, and is looking forward to not only learning all about her course but also about her new environment. As she is from a small rural town in the interior of the country, contact with new people was scarce and her current situation has presented her with the possibility to get in touch with more people and also establish new connections. Maybe steming from the isolation inherent to her situation in her highschool years, Maria has developed a reasonable level of understanding of technology and is quite comfortable with any means of interacting with it.
+Maria has just enrolled on her first year of university, and is looking forward to not only learn all about her course but also about her new environment. As she is from a small rural town in the interior of the country, contact with new people her own age was scarce and her current situation has presented her with the possibility to get in touch with more people and make new connections. Perhaps steming from the isolation inherent to her situation in her highschool years, Maria has developed a reasonable level of understanding of technology and is quite comfortable with any means of interacting with it.
 
 ---
 

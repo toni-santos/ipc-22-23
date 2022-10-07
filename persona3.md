@@ -30,14 +30,14 @@
 
 ### Narrative/Lifestyle/Behavioural patterns 
 
-After getting into their desired course in 2020, amidst the global pandemic, and spending the better part of the past years locked at home or partaking in oline classes, Ellis has finally has the opportunity to be living and studying full-time in Porto. While they are happy and eager to exploer the new world of possibilities that has just opened up for them these changes also come with a lot of stress and challenges related to the distance and separation that has been created between Ellis and their parents and girlfriend which are still in Lisbon. The present situation leaves Ellis with many overwhelmed, which in turn has makes focusing to study on exams and other schoolwork extremely hard, especially when taking in consideration their already anxiety. Furthermore, Ellis really wants to start to take on their own self-found independence to the next step, as such they want to start their work life and establishing their life in the city. 
+After getting into their desired course in 2020, amidst the global pandemic, and spending the better part of the past years locked at home or partaking in oline classes, Ellis has finally had the opportunity to be living and studying full-time in Porto. While they are happy and eager to exploer the new world of possibilities that has just opened up for them these changes also come with a lot of stress and challenges related to the distance and separation that has been created between Ellis and their parents and girlfriend which are still in Lisbon. The present situation has left Ellis with overwhelmed, which in turn has made focusing on studying for exams and other schoolwork extremely hard, especially when taking in consideration their anxiety. Furthermore, Ellis really wants to start to take on their own self-found independence to the next step, as such they want to start their work life and establish themselves in the city. 
 
 ---
 
 ### Objective/Needs
 
-- Always hungry for more knowledge and to adopt new technologies, they are interested in integrating the app in their daily lives.
-- Since Ellis' knowledge of the city, and more specifically the cities' libraries, is limited it is important to them that the most important bibliographic references of their units are readily and hastily available to them.
+- Always hungry for more knowledge and to adopt new technologies, they are interested in integrating new apps in their daily lives.
+- Since Ellis' knowledge of the city, and more specifically the cities' libraries, is limited it is important fort them that the most important bibliographic references of their units are readily and hastily available to them.
 - Ellis aims to always feel comfortable in public spaces as such the app should allow them to monitor the library's occupancy accurately.
 
 ---
