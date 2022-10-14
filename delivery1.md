@@ -53,5 +53,32 @@ It is wednesday morning and without any plans for the afternoon and wanting to b
 They both reach for their mobile phones and check LUNI's event tab, where they immediately find highlighted that day's events. After reading some more about the event and even pondering on attending another one in a different university, they are able to quickly register themselves and are set for that afternoon. Maria and Mariana spend a great afternoon together talking about their favourite books, music and getting to know eachother better, by the end a strong bond has been formed. 
 
 ### Functionalities and tasks
+|Functionalities | Tasks|     
+|-----|-----|
+|Search for a seat| Search for an available seat with computer access on the third floor|
+|Buy a book| Buy a book from a course I'm enrolled that has a price below 20€|
+|Regist in an event| Register in the spelling contest that will take place next week|
 
 ### Usability requirements
+
+#### Search for an available seat with computer access on the third floor
+|||
+|-----------|----------|
+|Efficacy| 80% of the users reached an available seat in their first try|
+|Efficiency| Average time of finding a seat with that criteria below 1 minute <br> Selecting third floor and computer access in 4 or less clicks|
+|Satisfaction| Less than 15% of users unsatisfied with map display|
+
+### Buy a book from a course I'm enrolled that has a price below 20€
+|||
+|-----------|----------|
+|Efficacy| If the book is available, all the users tasks should have a success rate of 96% or above|
+|Efficiency| Average time of processing the transaction below 2 minutes.|
+|Satisfaction| 90% of the users should be pleased with the navigation system|
+
+### Register in the spelling contest that will take place next week
+
+|||
+|-----------|----------|
+|Efficacy| The registration process has to be completed within 3 trys|
+|Efficiency| The searching process should be possible to do with 6 or less clicks|
+|Satisfaction| 95% of the users should consider the registration process to be pratical|
