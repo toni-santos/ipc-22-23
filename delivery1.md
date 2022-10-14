@@ -40,6 +40,33 @@ As for the relevance of the features that were planned, answers revealed a big i
 ![Lucas Mendes](UX%20Persona%20-%20Lucas%20Mendes.png)
 ![Maria Joana](UX%20Persona-%20Maria%20Joanapng.png)
 
+### Simplified conceptual model
+- Objects (attributes)
+    - User (name, photo, courses)
+    - Book (title, cover, summary, status, courses, sellable, price);
+    - Seat (location, status); 
+    - Location (floor, characteristics);
+    - Events (date, title, description, registration fee, capacity)
+- Actions 
+    - Consult book status;
+    - Reserve, buy books; 
+    - Recommend, get recommendation;
+    - Find available seat and book it;
+    - See events;
+    - Register in event;
+- Relations 
+    - Book has associated status;
+    - Books on sale have price;
+    - User is enrolled in courses;
+    - Books have courses associated;
+    - User have book recommendations;
+    - Seat has location;
+    - Rooms are a group of seats;
+    - Location has characteristics;
+    - Users can register in multiple
+events;
+
+
 ### Activity scenarios
 
 Ellis has just returned from a weekend with their family in Lisbon. For the past 2 days Ellis had been going around their home city visiting their extended family and hanging out with their girlfriend, for what was certainly for her not enough time.
